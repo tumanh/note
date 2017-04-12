@@ -1,0 +1,8 @@
+Tìm hiểu về Overlay Network
+Định nghĩa: Overlay Network là một mạng ảo của các node với các liên kết logic được xây dựng trên một cơ sở mạng có sẵn, nhằm mục đích thực hiên một dịch vụ mạng mà cơ sở mạng hiện tại không có sẵn 
+Overlay Network :
+o	Được xây dựng trên một hoặc nhiều network đã tồn tại
+o	Tạo thêm một lớp mạng (ảo) bổ sung thường dành cho việc ảo hóa
+o	Nó làm thay đổi thuộc tính của một hay nhiều lớp mạng bên dưới
+
+
